@@ -1,0 +1,40 @@
+{
+  "name": "Taurine",
+  "identifier": "com.odysseyteam.taurinealtstore",
+  "sourceURL": "https://taurine.app/altstore/taurinestore.json/taurinestore.json",
+  "apps": [
+    {
+      "name": "Taurine",
+      "bundleIdentifier": "com.odysseyteam.taurine",
+      "developerName": "Odyssey Team",
+      "subtitle": "Time to get amped.",
+      "version": "1.0.6",
+      "versionDate": "2021-06-11",
+      "versionDescription": "- Applies a fix for amfid panics so that it should happen less often\n- BSODs dump info about the BSOD to /.last_bsod\n- Creating /.verbose_bsod will show a verbose BSOD instead\n- SpringBoard alert when tweaks are disabled (either in case of a BSOD or when they're disabled manually)",
+      "downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.0.6/Taurine-1.0.6.ipa",
+      "localizedDescription": "Taurine is an iOS 14.0-14.3 jailbreak, utilising Procursus and Libhooker.",
+      "iconURL": "https://taurine.app/assets/images/icon.png",
+      "tintColor": "F65656",
+      "size": 31400000,
+      "beta": false,
+      "screenshotURLs": [
+        "https://taurine.app/assets/images/ss-1.png",
+        "https://taurine.app/assets/images/ss-2.png",
+        "https://taurine.app/assets/images/ss-3.png"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Taurine now available!",
+      "identifier": "taurine-release",
+      "caption": "Supports iOS 14.0-14.3",
+      "tintColor": "F65656",
+      "imageURL": "https://taurine.app/assets/images/meta.png",
+      "appID": "com.odysseyteam.taurine",
+      "date": "2021-04-01",
+      "notify": false
+    }
+  ],
+  "userInfo": {}
+}
