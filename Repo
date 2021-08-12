@@ -1,6 +1,6 @@
 {
   "name": "AppCake",
-  "identifier": "com.iphonecake.appcakej",
+  "identifier": "com.iphonecake.appcakej.L79YCPZZ88",
   "sourceURL": "https://raw.githubusercontent.com/TaminoPalm/Altstore-Appcake/main/Repo",
   "apps": [
     {
@@ -31,7 +31,7 @@
       "caption": "Supports iOS 11.0-14.7",
       "tintColor": "0BE5FF",
       "imageURL": "https://raw.githubusercontent.com/TaminoPalm/Altstore-Appcake/main/C683F3B3-A20C-4BC7-A3A3-1F6D58331D16.png",
-      "appID": "com.iphonecake.appcakej",
+      "appID": "com.iphonecake.appcakej.L79YCPZZ88",
       "date": "2021-04-01",
       "notify": false
     }
